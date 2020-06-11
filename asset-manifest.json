@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bioblog/static/css/main.425ce245.chunk.css",
+    "main.js": "/bioblog/static/js/main.61ba672e.chunk.js",
+    "main.js.map": "/bioblog/static/js/main.61ba672e.chunk.js.map",
+    "runtime~main.js": "/bioblog/static/js/runtime~main.3a3f0c6d.js",
+    "runtime~main.js.map": "/bioblog/static/js/runtime~main.3a3f0c6d.js.map",
+    "static/css/2.f93178fb.chunk.css": "/bioblog/static/css/2.f93178fb.chunk.css",
+    "static/js/2.156315be.chunk.js": "/bioblog/static/js/2.156315be.chunk.js",
+    "static/js/2.156315be.chunk.js.map": "/bioblog/static/js/2.156315be.chunk.js.map",
+    "index.html": "/bioblog/index.html",
+    "precache-manifest.c14b3de68755dd3ad2e5cef9101c822c.js": "/bioblog/precache-manifest.c14b3de68755dd3ad2e5cef9101c822c.js",
+    "service-worker.js": "/bioblog/service-worker.js",
+    "static/css/2.f93178fb.chunk.css.map": "/bioblog/static/css/2.f93178fb.chunk.css.map",
+    "static/css/main.425ce245.chunk.css.map": "/bioblog/static/css/main.425ce245.chunk.css.map",
+    "static/media/font.css": "/bioblog/static/media/PixelMplus12-Regular.9848197d.ttf",
+    "static/media/bio-background.jpg": "/bioblog/static/media/bio-background.a0179b58.jpg"
+  }
+}
