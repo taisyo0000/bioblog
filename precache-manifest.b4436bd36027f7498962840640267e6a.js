@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e00ba2d9fb6c351afb4035035e8ac207",
+    "revision": "047d94c17f3c2611a612b2df1a35d893",
     "url": "/bioblog/index.html"
   },
   {
-    "revision": "36346ea36887c53932bf",
+    "revision": "95de88a9841065ec84f2",
     "url": "/bioblog/static/css/2.f93178fb.chunk.css"
   },
   {
-    "revision": "7acc5aac84960202aeae",
+    "revision": "9b062384050b0eabec2c",
     "url": "/bioblog/static/css/main.425ce245.chunk.css"
   },
   {
-    "revision": "36346ea36887c53932bf",
-    "url": "/bioblog/static/js/2.156315be.chunk.js"
+    "revision": "95de88a9841065ec84f2",
+    "url": "/bioblog/static/js/2.5f15208d.chunk.js"
   },
   {
-    "revision": "7acc5aac84960202aeae",
-    "url": "/bioblog/static/js/main.61ba672e.chunk.js"
+    "revision": "9b062384050b0eabec2c",
+    "url": "/bioblog/static/js/main.6aab8395.chunk.js"
   },
   {
     "revision": "445f187def9782133acf",
