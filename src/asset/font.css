@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'PixelMplus12-Regular';
+    src: url(./PixelMplus12-Regular.ttf) format('woff2');
+}
+
+@font-face {
+    font-family: 'PixelMplus12-Bold';
+    src: url(./PixelMplus12-Bold.ttf) format('woff2');
+}
